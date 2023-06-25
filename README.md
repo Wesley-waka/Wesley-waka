@@ -29,49 +29,49 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-  <a  target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" />
    </a>
 
-   <a  target="_blank" rel="noreferrer"> 
+   <a  href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50"  />
    </a>
 
 
-   <a  target="_blank" rel="noreferrer">
+   <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="50" width="50" />
    </a>
 
 
 
-   <a  target="_blank" rel="noreferrer">          
+   <a href="https://v2.tailwindcss.com/docs" target="_blank" rel="noreferrer">          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" width="50"/>
    </a>
 
-   <a  target="_blank" rel="noreferrer"> 
+   <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  height="50" width="50"/>
    </a>
 
    
-<a  target="_blank" rel="noreferrer">
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" />
    </a>
 
    
-   <a  target="_blank" rel="noreferrer"> 
+   <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  height="50" width="50"/>
    </a>
 
-   <a  target="_blank" rel="noreferrer">    
+   <a href="https://ruby-doc.org/" target="_blank" rel="noreferrer">    
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"   height="50" width="50" />
    </a>
 
 
-   <a target="_blank" rel="noreferrer"> 
+   <a href="https://guides.rubyonrails.org/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  height="50" width="50"/>
    </a>
 
-   <a  target="_blank" rel="noreferrer"> 
+   <a href="https://rspec.info/documentation/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="50" width="50"/>
    </a>
 
@@ -84,8 +84,8 @@
 
 [![Wesley-waka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/Wesley-waka)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-waka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-waka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Wesley-waka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wesley-waka&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wesley-waka&show_icons=true&locale=en&theme=tokyonight" alt="Wesley-waka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="Wesley-waka" /></p>
