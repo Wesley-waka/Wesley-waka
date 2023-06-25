@@ -76,7 +76,7 @@
    </a>
 
    <a  target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg"  height="50" width="50" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="50" width="50"/>
    </a>
 
    
