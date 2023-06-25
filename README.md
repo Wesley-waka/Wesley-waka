@@ -26,58 +26,61 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+ 
+  <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" />
    </a>
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50"  />
    </a>
 
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+   <a  target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="50" width="50" />
    </a>
 
 
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="50" width="50" />
    </a>
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  height="50" width="50"/>
    </a>
 
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  height="30" width="40"/>
    </a>
    
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<a  target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" />
    </a>
 
    
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  height="50" width="50"/>
    </a>
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer">    
+   <a  target="_blank" rel="noreferrer">    
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"   height="50" width="50" />
    </a>
 
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  height="50" width="50"/>
    </a>
 
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+   <a  target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg"  height="50" width="50" />
    </a>
 
+   
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  height="50" width="50" />
+  </a> 
    
   
 
