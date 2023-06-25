@@ -37,7 +37,12 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50"  />
    </a>
 
+<a href="https://www.figma.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  height="50" width="50"  />
+   </a>
 
+            
+          
    <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="50" width="50" />
    </a>
