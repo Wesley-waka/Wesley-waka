@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently a Freelancer @FIverr
 
-- 🌱 I’m currently learning **UI/UX Design && DevOps**
+- 🌱 I’m currently learning **DevOps,Cloud Development**
 
-- 💬 Ask me about **React , AWS**
+- 💬 Ask me about **React , Figma**
 
 - 📫 How to reach me **wesleywaka77@gmail.com**
 
