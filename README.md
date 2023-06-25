@@ -89,7 +89,7 @@
 
 [![Wesley-waka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&&theme=xcode)](https://github.com/Wesley-waka)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-waka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Wesley-waka" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wesley-waka&show_icons=true&locale=en&theme=tokyonight" alt="Wesley-waka" /></p>
 
