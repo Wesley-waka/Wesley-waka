@@ -84,7 +84,8 @@
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  height="50" width="50" />
   </a> 
-   
+
+   ![AWS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
 
 [![Wesley-waka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&&theme=xcode)](https://github.com/Wesley-waka)
