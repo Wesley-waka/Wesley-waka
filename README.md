@@ -85,7 +85,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  height="50" width="50" />
   </a> 
 
-   ![AWS](https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white)
   
 
 [![Wesley-waka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&&theme=xcode)](https://github.com/Wesley-waka)
