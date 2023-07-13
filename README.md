@@ -93,6 +93,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wesley-waka&show_icons=true&locale=en&theme=tokyonight" alt="Wesley-waka" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="Wesley-waka" /></p>
