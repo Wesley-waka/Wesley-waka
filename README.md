@@ -87,7 +87,8 @@
 
   
 
-[![Wesley-waka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&&theme=xcode)](https://github.com/Wesley-waka)
+
+[![Wesley-waka's GitHub activity graph](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats)
 
 
 
