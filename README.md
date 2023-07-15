@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **wesleywaka77@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
