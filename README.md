@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently a Freelancer @FIverr
+- 🔭 I’m currently a Freelance @FIverr
 
 - 🌱 I’m currently learning **DevOps,Cloud Development**
 
