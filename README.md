@@ -87,6 +87,7 @@
 
   
 
+### :octocat: My stats
 
 [![Wesley-waka's GitHub activity graph](https://github-readme-stats.vercel.app/api?username=Wesley-waka&show_icons=true&theme=tokyonight)](https://github.com/Wesley-waka/github-readme-stats)
 
