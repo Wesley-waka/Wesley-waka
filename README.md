@@ -91,10 +91,15 @@
 
 [![Wesley-waka's GitHub activity graph](https://github-readme-stats.vercel.app/api?username=Wesley-waka&show_icons=true&theme=tokyonight)](https://github.com/Wesley-waka/github-readme-stats)
 
-
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-waka&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="Wesley-waka" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&theme=dracula&hide_border=true)
+
+
+
 
 <br/>
 
