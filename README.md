@@ -96,6 +96,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="Wesley-waka" /></p>
 
+##BLOG POSTS
+
 <!-- BLOG-POST-LIST:START -->
 - [Global Error and Response Handler in Node JS with Express and Typescript](https://javascript.plainenglish.io/global-error-and-response-handler-in-node-js-with-express-and-typescript-913ec06d74b3?source=rss-f5cfa346da5------2)
 - [Secure Client-Side Storage Data with Web Crypto &lpar;React JS + TypeScript&rpar;](https://javascript.plainenglish.io/secure-client-side-storage-data-using-with-web-crypto-react-js-typescript-f43944fad7b3?source=rss-f5cfa346da5------2)
