@@ -96,7 +96,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="Wesley-waka" /></p>
 
-##BLOG POSTS
+<br/>
+
+# Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Global Error and Response Handler in Node JS with Express and Typescript](https://javascript.plainenglish.io/global-error-and-response-handler-in-node-js-with-express-and-typescript-913ec06d74b3?source=rss-f5cfa346da5------2)
