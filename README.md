@@ -96,7 +96,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley-waka&&theme=tokyonight" alt="Wesley-waka" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&theme=dracula&hide_border=true)
+![Wesley-waka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-waka&theme=dracula&hide_border=true)
 
 
 
