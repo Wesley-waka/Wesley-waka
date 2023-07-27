@@ -104,6 +104,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to setup AuthO API in React](https://dev.to/wesleywaka/how-to-setup-autho-api-in-react-client-side-11ed)
+- [React Query - useQuery]((https://dev.to/wesleywaka/react-query-usequery-d04))
 
 <!-- BLOG-POST-LIST:END -->
 
