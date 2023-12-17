@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer-FE Heavy && Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently a Freelance @Turing
+- 🔭 I’m currently a Freelancer @Turing
 
 - 🌱 I’m currently learning **DevOps,Cloud Development**
 
