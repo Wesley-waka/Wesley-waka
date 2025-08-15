@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-        <a href="https://www.linkedin.com/in/wesley-waka-9b546a265/" target="blank">
+        <a href="https://www.linkedin.com" target="blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" />
         </a>
 
