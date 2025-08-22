@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React , Figma**
 
-- 📫 How to reach me **wesleywaka77@gmail.com**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **I love playing Sudoku**
 
